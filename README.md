@@ -111,13 +111,4 @@ ng serve --open
 <br>
 
 <br>
-<h2>
-Contact
-</h2>
-Thank you for taking your time to read. You can contact me from my accounts below. <br>
-<br>
 
-
-
-
-<br>
